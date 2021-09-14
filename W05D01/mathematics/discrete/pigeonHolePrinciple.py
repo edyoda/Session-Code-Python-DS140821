@@ -1,0 +1,1 @@
+x = 'If there are are 10 people and 9 rooms'

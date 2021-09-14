@@ -1,0 +1,2 @@
+ashish = 'america'
+x = 'happy'
